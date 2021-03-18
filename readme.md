@@ -1,6 +1,6 @@
 # Hot Chocolate F# Sample Project
 
-This is a server for [GraphQL](https://www.howtographql.com) using [.NET](https://dotnet.microsoft.com) 5, [F#](https://fsharp.org) and [Hot Chocolate](https://chillicream.com/).
+[GraphQL](https://www.howtographql.com) server using [.NET](https://dotnet.microsoft.com) 5, [F#](https://fsharp.org) and [Hot Chocolate](https://chillicream.com/).
 
 To run use:
 
