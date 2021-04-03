@@ -10,6 +10,17 @@ dotnet run --project ./Demo
 
 Then open the browser and head over to http://localhost:5000/graphql to open the built-in GraphQL IDE.
 
+## TODO
+
+- [x] Queries
+- [x] Mutations
+- [ ] Subscriptions
+- [x] Classes
+- [ ] Async
+- [x] Records 
+- [ ] Discriminated unions
+- [ ] Options
+
 ## Bugs/Missing Features
 
 - [F# discriminated union support](https://github.com/ChilliCream/hotchocolate/issues/2103)
