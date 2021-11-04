@@ -1,6 +1,6 @@
 # Hot Chocolate F# Sample Project
 
-[GraphQL](https://www.howtographql.com) server using [.NET](https://dotnet.microsoft.com) 5, [F#](https://fsharp.org) and [Hot Chocolate](https://chillicream.com/).
+[GraphQL](https://www.howtographql.com) server using [.NET](https://dotnet.microsoft.com) 6, [F#](https://fsharp.org) and [Hot Chocolate](https://chillicream.com/).
 
 To run use:
 
@@ -17,7 +17,7 @@ Then open the browser and head over to http://localhost:5000/graphql to open the
 - [ ] Subscriptions
 - [x] Classes
 - [ ] Async
-- [x] Records 
+- [x] Records
 - [ ] Discriminated unions
 - [ ] Options
 
